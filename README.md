@@ -37,8 +37,8 @@ In addition to my research experience, I have worked as a consultant in two cons
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caozeze&show_icons=true&theme=radical" width="53%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozeze&layout=compact&theme=radical" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caozeze&show_icons=true&theme=radical" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozeze&layout=compact&theme=radical" width="41%" />
 </p>
 
 ---
