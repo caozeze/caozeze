@@ -37,13 +37,14 @@ In addition to my research experience, I have worked as a consultant in two cons
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+<!--
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozeze&layout=compact&theme=radical" width="41%" />
   <img src="https://github-readme-stats.vercel.app/api?username=caozeze&show_icons=true&theme=radical" width="54%" />
-</p>
+</p> -->
 
 ---
 
