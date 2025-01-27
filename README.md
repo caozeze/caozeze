@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ze Cao 
 **Data Scientist | Machine Learning Engineer**  
 📧 zcgray@163.com | 📱 +44 07882 150 182 | 🌍 London, UK  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rain-z/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/caozeze)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rain-z/) | [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/caozeze)  
 
 ---
 
@@ -12,7 +11,7 @@ I am a passionate **data scientist** and **machine learning engineer**, with exp
 - 🏫 **Tsinghua University**  
 - 🏫 **South China Collaborative Innovation Research Institute**  
 
-I collaborated with **UNICEF**, analysing multi-source data on child welfare issues to provide actionable, data-driven policy recommendations.  
+I collaborated with **UNICEF**, analysing multi-source data on child welfare issues to provide actionable, data-driven recommendations.  
 
 In addition to my research experience, I have worked as a consultant in two consulting firms, empowering businesses through **data-driven strategies, business analytics, and digital transformation.** With a solid foundation in **data analysis and modelling**, I thrive in cross-functional teams, delivering actionable insights and innovative solutions.  
 
@@ -36,9 +35,9 @@ In addition to my research experience, I have worked as a consultant in two cons
 
 ---
 
-### 📊 GitHub
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozeze&layout=compact&theme=radical" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caozeze&layout=compact&theme=radical" width="90%" />
 </p>
 
 ---
